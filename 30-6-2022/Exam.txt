@@ -1,0 +1,8 @@
+class exam 
+{
+public static void main(String args[])
+{
+int cha=50;//local variable
+System.out.println("the value is "+cha);
+}
+}
